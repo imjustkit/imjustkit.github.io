@@ -1,0 +1,19 @@
+body {
+    background-color: #232323;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+p {
+    color: #ffffff;
+    font-size: 5vh;
+}
+
+.hint {
+    font-size: 3vh;
+}
+
+img {
+    height: 50vh;
+    width: auto;
+}
