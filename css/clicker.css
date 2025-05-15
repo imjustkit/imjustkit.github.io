@@ -13,13 +13,11 @@ body {
 }
 
 .left {
-    text-align: left;
     height: auto;
     width: 50%;
 }
 
 .right {
-    text-align: right;
     height: auto;
     width: 50%;
 }
