@@ -15,4 +15,4 @@ setInterval(() => {
         shiggys += 1
     }
     update()
-}, 4)
+}, 5)
